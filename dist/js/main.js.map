@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../js/main.js"],"names":["a","console","log"],"mappings":";;AAAA,IAAMA,CAAC,GAAG,CAAV;;AAEC,aAAM;AACLC,EAAAA,OAAO,CAACC,GAAR,CAAY,GAAZ;AACAD,EAAAA,OAAO,CAACC,GAAR,CAAY,GAAZ;AACD,CAHA","sourcesContent":["const a = 1\n\n;() => {\n  console.log(111)\n  console.log(222)\n}"],"file":"main.js"}
